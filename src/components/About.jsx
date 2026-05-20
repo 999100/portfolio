@@ -5,7 +5,7 @@ function About() {
     <section className="about" id="about">
       <h2>About Us</h2>
       <p>
-        Hi, I’m KARAN SINGH from New Delhi—a curious learner and passionate coder
+        Hi, I’m MUHAMMAD from New Delhi—a curious learner and passionate coder
         steadily building my skills in JavaScript and React. I enjoy breaking
         down complex problems into clear, step-by-step solutions, often using
         flowcharts, dry runs, and practical analogies to make logic simple and
