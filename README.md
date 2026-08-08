@@ -34,47 +34,6 @@ portfolio/
 * Organized project structure
 * Fast development with Vite
 
-## 🛠️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/999100/portfolio.git
-```
-
-Go to the project directory:
-
-```bash
-cd portfolio
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-The project will run on the local development server provided by Vite.
-
-## 📦 Build for Production
-
-To create a production build:
-
-```bash
-npm run build
-```
-
-To preview the production build:
-
-```bash
-npm run preview
-```
 
 ## 🌐 Deployment
 
