@@ -1,16 +1,95 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built with **React** and **Vite**.
 
-Currently, two official plugins are available:
+This project showcases my profile, personal information, skills, and other details through a clean and responsive portfolio website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tech Stack
 
-## React Compiler
+* React
+* JavaScript
+* HTML
+* CSS
+* Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Project Structure
 
-## Expanding the ESLint configuration
+```text
+portfolio/
+├── public/
+├── src/
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* Responsive portfolio design
+* React-based components
+* Clean and simple UI
+* Organized project structure
+* Fast development with Vite
+
+## 🛠️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/999100/portfolio.git
+```
+
+Go to the project directory:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The project will run on the local development server provided by Vite.
+
+## 📦 Build for Production
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+To preview the production build:
+
+```bash
+npm run preview
+```
+
+## 🌐 Deployment
+
+This project can be deployed using platforms such as **Vercel** or **Netlify**.
+
+## 📸 Project
+
+This portfolio project is created using React and Vite to practice frontend development and build a professional personal website.
+
+## 👨‍💻 Author
+
+**999100**
+
+GitHub: https://github.com/999100
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository.
